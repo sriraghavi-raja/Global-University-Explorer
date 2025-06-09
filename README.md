@@ -98,9 +98,13 @@ study-abroad-dashboard/
 
 ## 📸 Screenshots
 
-*(To be added: Include screenshots of your dashboard's main pages (Explorer, Comparison, Visualizations) here to give users a visual preview.)*
+![image](https://github.com/user-attachments/assets/b7004767-6b7f-46aa-b6cb-0707083a6511)
 
----
+
+![image](https://github.com/user-attachments/assets/990aa3fb-7da6-47dc-8fbc-aa70d11ff96e)
+
+![image](https://github.com/user-attachments/assets/ad85286d-d7ea-4a61-b451-84ca19e1a1d3)
+
 
 ## 🤝 Contributing
 
