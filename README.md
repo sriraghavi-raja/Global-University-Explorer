@@ -12,6 +12,8 @@ This project provides a dynamic and user-friendly platform for delving into univ
 
 ---
 
+Live Demo - https://sriraghavi-raja-global-university-explorer-app-2yqkdm.streamlit.app/
+
 ## 🚀 Features
 
 * **Comprehensive University Explorer:**
