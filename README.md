@@ -45,7 +45,7 @@ Follow these steps to get the Global University Explorer Dashboard running on yo
 First, clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/sriraghavi-raja/Global-University-Explorer.git
 cd study-abroad-dashboard
 ```
 *(Replace `<repository_url>` with the actual URL of your Git repository.)*
